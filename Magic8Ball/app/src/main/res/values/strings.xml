@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="label1"><u>Question</u></string>
+</resources>
